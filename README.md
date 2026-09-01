@@ -14,7 +14,7 @@ Interactive 3D Marketing Intelligence
 
 
 3D Campaign Performance Flow
-![Interactive 3D Marketing Intelligence](images/3D-Campaign Performance Flow.png)
+![Interactive 3D Marketing Intelligence](images/3d-Campaign Performance Flow.png)
 
 
 3D Bubble Campaign Intelligence
