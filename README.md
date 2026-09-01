@@ -9,21 +9,23 @@ The project combines traditional statistical visualizations with interactive 3D 
 
 The following visualizations are included directly in this repository and will be displayed automatically on GitHub.
 
-Interactive 3D Marketing Intelligence
+## 🖼️ Project Output
+
+### 📊 Interactive 3D Marketing Intelligence
+
 ![Interactive 3D Marketing Intelligence](images/3d-marketing-intelligence.png)
 
+### 🔄 3D Campaign Performance Flow
 
-3D Campaign Performance Flow
-![3D Campaign Performance Flow](images/3d-Campaign Performance Flow.png)
+![3D Campaign Performance Flow](images/3d-campaign-performance-flow.png)
 
+### 🫧 3D Bubble Campaign Intelligence
 
-3D Bubble Campaign Intelligence
+![3D Bubble Campaign Intelligence](images/3d-bubble-campaign-intelligence.png)
 
+### 🌳 Marketing Campaign Hierarchy Analysis
 
-
-Marketing Campaign Hierarchy Analysis
-
-
+![Marketing Campaign Hierarchy Analysis](images/marketing-campaign-hierarchy.png)
 
 🚀 Project Overview
 
