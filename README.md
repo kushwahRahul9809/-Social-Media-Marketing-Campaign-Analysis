@@ -10,7 +10,7 @@ The project combines traditional statistical visualizations with interactive 3D 
 The following visualizations are included directly in this repository and will be displayed automatically on GitHub.
 
 Interactive 3D Marketing Intelligence
-
+![Interactive 3D Marketing Intelligence](images/3d-marketing-intelligence.png)
 
 
 3D Campaign Performance Flow
